@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+9
+Val1,Val2
+7
+0
+1
+18
+Val1<=0 or Val2<=0
+7
+0
+1
+27
+Val1<100000 and Val2<100000
+6
+1
+5
+Total
+9
+Val1+Val2
+13
+6
+2
+4
+Suma
+9
+Val1+Val2
+5
+Total
+9
+Suma-5000
+13
+4
+1
+5
+Total
+13
+4
+1
+11
+'No Valido'
+13
+1
